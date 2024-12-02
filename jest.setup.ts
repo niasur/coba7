@@ -1,2 +1,6 @@
 import "@testing-library/jest-dom";
-// setupTests.js atau file konfigurasi Jest lainnya
+import { TextEncoder, TextDecoder } from "util";
+
+// Memperluas tipe global agar TypeScript tidak salah membaca
+global.TextEncoder = TextEncoder;
+global.TextDecoder = TextDecoder as unknown as typeof global.TextDecoder;

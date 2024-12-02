@@ -27,6 +27,6 @@ npm run test:coverage
 ![image](https://github.com/niasur/coba7/blob/main/src/assets/coverage.png)
 ![image](https://github.com/niasur/coba7/blob/main/src/assets/report%20coverage.png)
 
-## Push Docker Image to Docker Hub
+## Docker
 
 ![image](https://github.com/niasur/coba7/blob/main/src/assets/docker%20hub.png)

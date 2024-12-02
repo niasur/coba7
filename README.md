@@ -30,3 +30,7 @@ npm run test:coverage
 ## Docker
 
 ![image](https://github.com/niasur/coba7/blob/main/src/assets/docker%20hub.png)
+
+## deploy Vercel
+
+![image](https://github.com/niasur/coba7/blob/main/src/assets/deploy%20vercel.png)

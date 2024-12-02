@@ -17,8 +17,6 @@ npm run test
 
 ![image](https://github.com/niasur/coba7/blob/main/src/assets/test.png)
 
-**Result :**
-
 With coverage:
 ```shell
 npm run test:coverage

@@ -6,7 +6,7 @@ npm install
 ```
 
 ## CI/CD
-[![CI/CD Pipeline]([![CI/CD Pipeline](https://github.com/niasur/coba7/actions/workflows/main.yml/badge.svg)](https://github.com/niasur/coba7/actions/workflows/main.yml))
+[![CI/CD Pipeline](https://github.com/niasur/coba7/actions/workflows/main.yml/badge.svg)](https://github.com/niasur/coba7/actions/workflows/main.yml)
 
 ## Component Test
 ```

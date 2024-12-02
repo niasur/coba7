@@ -1,7 +1,7 @@
 import { render, screen } from '@testing-library/react';
 import '@testing-library/jest-dom';
 import { MemoryRouter } from 'react-router-dom';
-import Navbar from '../components/Navbar'; // Pastikan path ini sesuai
+import Navbar from '../components/Navbar'; 
 
 describe('Navbar Component', () => {
   it('renders the navigation bar with title and links', () => {
@@ -10,8 +10,7 @@ describe('Navbar Component', () => {
         <Navbar />
       </MemoryRouter>
     );
-
-    // Test for the title
+    
     expect(screen.getByText('My Portfolio')).toBeInTheDocument();
 
     // Test for navigation links
